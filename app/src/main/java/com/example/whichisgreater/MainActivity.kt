@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
         val correctAns:Boolean = if (isLeftBtnSlected) leftNum>rightNum else leftNum<rightNum
         Log.d(TAG, "checkAnswer: $correctAns")
         if (correctAns){
-            background.setBackgroundColor(Color.GREEN)
+            background.setBackgroundColor(Color.CYAN)
             Toast.makeText(this,"Correct",Toast.LENGTH_SHORT).show()
         }
         else{
