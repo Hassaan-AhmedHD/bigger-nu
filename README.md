@@ -19,7 +19,7 @@ The following **extensions** are implemented:
 * [] List anything else that you did to improve the app functionality or design!
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src="R\drawable\gifs.gif" title="Vedio Walkthrough"/>
+<img src='https://mail.google.com/mail/u/0/?tab=wm#inbox/QgrcJHrhwMVPxCSpSLcxPqxTDqKQkkwgcNB?projector=1&messagePartId=0.1' title="Vedio Walkthrough"/>
 
 GIF created with LiceCap.
 
