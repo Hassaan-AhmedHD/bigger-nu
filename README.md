@@ -19,7 +19,7 @@ The following **extensions** are implemented:
 * [] List anything else that you did to improve the app functionality or design!
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src="C:\Users\HD\AndroidStudioProjects\Whichisgreater\app\src\main\res\drawable\gifs.gif" title="Vedio Walkthrough"/>
+<img src="R\drawable\gifs.gif" title="Vedio Walkthrough"/>
 
 GIF created with LiceCap.
 
