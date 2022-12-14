@@ -1,5 +1,4 @@
 package com.example.whichisgreater
-
 import android.content.ContentValues.TAG
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
@@ -15,28 +14,18 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
         assignNumToBtns()
-
-
-      //
-
-
         btnLeft.setOnClickListener{
             checkAnswer(true)
             assignNumToBtns()
     }
-
-
 
         btnRight.setOnClickListener{
             checkAnswer(false)
             assignNumToBtns()
         }
 
-
 }
-
 
     private fun assignNumToBtns() {
         val r = Random
@@ -49,7 +38,6 @@ class MainActivity : AppCompatActivity() {
         btnRight.text = rightNum.toString()
 
     }
-
 
     private fun checkAnswer(isLeftBtnSlected:Boolean) {
         val leftNum  = btnLeft.text.toString().toInt()
