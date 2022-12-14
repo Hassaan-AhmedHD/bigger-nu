@@ -9,14 +9,14 @@ Time Spent:** 2 hours**
 ## Functionality 
 
 The Following required functionality is completed
-* [] User can select one of the two button options shown
-* [] The user sees the background color change based on the correct option
-* [] The Numbers are generated using maths random function
+* [x] User can select one of the two button options shown
+* [x] The user sees the background color change based on the correct option
+* [x] The Numbers are generated using maths random function
 
 The following **extensions** are implemented:
 
-* [] Custom colors selected
-* [] List anything else that you did to improve the app functionality or design!
+* [x] Custom colors selected
+* [x] List anything else that you did to improve the app functionality or design!
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 <img src='https://github.com/Hassaan-AhmedHD/bigger-nu/blob/master/app/src/main/res/drawable/asd.gif' title="Vedio Walkthrough"/>
